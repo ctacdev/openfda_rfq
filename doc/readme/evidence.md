@@ -28,8 +28,7 @@ d.)
 - [Prototype QA results](../../doc/design_artifacts/TestCase-18F_Open_FDA.pdf?raw=true)
 
 e.)
-- Style guide live link TBD
-- [Style guide source](../../src/templates/style_guide.html)
+- [Style guide](https://openfda.ctacdev.com/style_guide)
 
 f.)
 - [Axshare interactive wireframes, password: P4ssw0rd!](http://i1bey5.axshare.com/)
