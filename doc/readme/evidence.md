@@ -3,7 +3,6 @@ a.)
 
 b.)
 - [Kickoff meeting minutes](../../doc/readme/MeetingMinutes18FBPAKick-off.pdf?raw=true)
-- Billing breakdown TBD
 
 c.)
 - [User-oriented design documentation](../../doc/design_artifacts/PharmaQueryDesignDocumentation.pdf?raw=true)
